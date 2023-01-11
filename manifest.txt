@@ -3,5 +3,5 @@ ConfVersion=3.0.41.1, 3.0.43.3,  3.0.46.1
 AppVersion=8.3
 Version=2
 ReleaseDate=03.01.2023
-URL=//Адрес для загрузки расширения
+URL=/devt3st1ng/servicestest/main/extension_test.zip
 New=Добавлена справочная информация, Добавлена авторизация на портале, Реализована интеграция
